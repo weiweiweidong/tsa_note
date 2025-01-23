@@ -5,3 +5,6 @@
 This repository stores my notes, code and related materials from learning timeseries analysis.
 
 このリポジトリは、時系列分析を学習する際のノート、コード、関連資料を保存しています。
+
+
+日期：2025 年 1 月 24 日
