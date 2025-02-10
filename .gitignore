@@ -181,3 +181,5 @@ cython_debug/
 
 
 .prettierignore
+# 省略了 data 文件夹
+reference_files/notebooks_dai2/data/
